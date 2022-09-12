@@ -1,0 +1,21 @@
+{
+  "name": "Math-app",
+  "description": "Hosting with render",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon",
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "16"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {},
+  "private": true,
+  "version": "1.0.0",
+  "author": "popecan1000@gmail.com",
+  "license": "MIT"
+}
